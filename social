@@ -1,0 +1,11 @@
+Tạo 1 mạng xã hội có các chức năng sau:
+1. Đăng ký, xác thực người dùng.
+2. tìm kiếm bạn bè theo tên, email, số điện thoại.
+3. Kết bạn, Hủy kết bạn, chặn.
+4. Đăng trạng thái.
+5. Like, share trạng thái của user khác.
+
+Yêu cầu kỹ thuật:
+1. API: Laravel 8
+2. Frontend: Vuejs 3, vue cli
+3. Giao diện: tự nghĩ, có thể base theo facebook
